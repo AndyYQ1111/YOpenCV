@@ -1,5 +1,5 @@
 {
-  "name": "YOpenCV",
+  "name": "YQSOpenCV",
   "version": "1.0.0",
   "summary": "OpenCV (Computer Vision) for iOS.",
   "homepage": "http://opencv.org",
