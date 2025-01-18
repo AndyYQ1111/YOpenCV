@@ -11,7 +11,6 @@
   "authors": "opencv.org",
   "source": {
     "http": "https://github.com/opencv/opencv/releases/download/4.11.0/opencv-4.11.0-ios-framework.zip",
-    "sha256": "0f23c8dc08d73831f2a6f39f1d85914da7206a176ae6d8fe599f2ba5775f04ae"
   },
   "platforms": {
     "ios": "8.0"
