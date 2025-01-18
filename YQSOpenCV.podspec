@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => '3-clause BSD', :text => 'By downloading, copying, installing or using the software you agree to this license...' }
   s.author           = { 'opencv.org' => 'opencv@opencv.org' }
   
-  s.source           = { :http => 'https://github.com/opencv/opencv/releases/download/4.11.0/opencv-4.11.0-ios-framework.zip', :sha256 => '0f23c8dc08d73831f2a6f39f1d85914da7206a176ae6d8fe599f2ba5775f04ae' }
+  s.source           = { :http => 'https://github.com/opencv/opencv/releases/download/4.11.0/opencv-4.11.0-ios-framework.zip', :sha256 => '1e83edcd3e482228f5c2348a7ceafd72efd614b6578e68f610cd0898c6df95d1' }
   
   s.platform         = :ios, '8.0'
   
