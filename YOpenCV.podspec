@@ -1,6 +1,6 @@
 {
   "name": "YOpenCV",
-  "version": "4.11.0",
+  "version": "1.0.0",
   "summary": "OpenCV (Computer Vision) for iOS.",
   "homepage": "http://opencv.org",
   "description": "OpenCV: Open Source Computer Vision Library\r\nResources\r\nHomepage: https://opencv.org\r\nDocs: https://docs.opencv.org/master/\r\nQ&A forum: http://answers.opencv.org\r\nIssue tracking: https://github.com/opencv/opencv/issues",
